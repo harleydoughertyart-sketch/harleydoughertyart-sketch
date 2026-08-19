@@ -15,9 +15,10 @@ Based in Massachusetts.
 
 [<img src="img/luvley.jpg" width="100%">](https://github.com/harleydoughertyart-sketch/luvley)
 
-A production system for advertising imagery. You give it a phone photograph of a product and
-it returns a campaign frame — set, surface, prop and key light all generated — then writes
-the ad around it. Live, taking payments, built and run by one person.
+Plenty of products will generate you an image — that part is a model call. The rare part
+is a copywriting system built on top of image-to-image that a non-technical person can
+steer: fix the one thing that came out wrong without losing the rest of the picture, then
+get the words to run beside it. Live, taking payments, built and run by one person.
 
 **[Read the case study →](https://github.com/harleydoughertyart-sketch/luvley)**
 
