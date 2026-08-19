@@ -46,6 +46,9 @@ Character, creature and environment design. Sculpting, texturing, turnarounds, p
 
 ---
 
+> Luvley and the Alashan tool are commercial work, so their full source stays private. Each
+> case study below shows the real software running, and publishes the modules worth reading.
+
 ### What I work with
 
 **Building things people use** — TypeScript, React, Node, Python, Express, Firebase, Stripe,
@@ -60,4 +63,5 @@ orchestration, evaluation harnesses
 ---
 
 Reach me at [harleydoughertyart@gmail.com](mailto:harleydoughertyart@gmail.com).
+
 
