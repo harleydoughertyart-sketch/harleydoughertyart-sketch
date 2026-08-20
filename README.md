@@ -5,7 +5,7 @@ characters, creatures and environments, and then started building the tools inst
 
 That turned out to be the same job. A generation pipeline is art direction with a type
 system. A line sheet that updates itself is typography with a test suite. What follows runs
-both ways — hand-sculpted design on one side, production software on the other.
+both ways: hand-sculpted design on one side, production software on the other.
 
 Based in Massachusetts.
 
@@ -25,13 +25,13 @@ payments, built and run by one person.
 
 ---
 
-### Ranking Auto Updater — PDF surgery for a wholesale line sheet
+### Ranking Auto Updater: PDF surgery for a wholesale line sheet
 
 [<img src="img/linesheet.jpg" width="100%">](https://github.com/harleydoughertyart-sketch/linesheet-updater)
 
 A desktop tool for Alashan Cashmere Company. It rewrites the sales figures printed on a
 sixteen-page line sheet without disturbing the layout an art director signed off on, and
-makes a person confirm every one — because the only real failure mode is a plausible wrong
+makes a person confirm every one, because the only real failure mode is a plausible wrong
 number.
 
 **[Read the case study →](https://github.com/harleydoughertyart-sketch/linesheet-updater)**
@@ -53,13 +53,13 @@ Character, creature and environment design. Sculpting, texturing, turnarounds, p
 
 ### What I work with
 
-**Building things people use** — TypeScript, React, Node, Python, Express, Firebase, Stripe,
+**Building things people use:** TypeScript, React, Node, Python, Express, Firebase, Stripe,
 Cloud Run, Playwright
 
-**Making pictures** — Blender, ZBrush, Substance Painter, Plasticity, Photoshop, DaVinci
+**Making pictures:** Blender, ZBrush, Substance Painter, Plasticity, Photoshop, DaVinci
 Resolve
 
-**Working with models** — the OpenAI and Gemini APIs, prompt systems, multi-agent
+**Working with models:** the OpenAI and Gemini APIs, prompt systems, multi-agent
 orchestration, evaluation harnesses
 
 ---
