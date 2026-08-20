@@ -1,4 +1,4 @@
-﻿## Harley Dougherty
+## Harley Dougherty
 
 Creative technologist. I trained as a concept artist and 3D modeller, spent years making
 characters, creatures and environments, and then started building the tools instead.
@@ -11,14 +11,15 @@ Based in Massachusetts.
 
 ---
 
-### Luvley — an AI image studio
+### Luvley.ai
 
 [<img src="img/luvley.jpg" width="100%">](https://github.com/harleydoughertyart-sketch/luvley)
 
-Plenty of products will generate you an image — that part is a model call. The rare part
-is a copywriting system built on top of image-to-image that a non-technical person can
-steer: fix the one thing that came out wrong without losing the rest of the picture, then
-get the words to run beside it. Live, taking payments, built and run by one person.
+An AI image studio, live at [luvley.ai](https://luvley.ai). Plenty of products will generate
+you an image, and that part is a model call. The rare part is a copywriting system built on
+top of image-to-image that a non-technical person can steer: fix the one thing that came out
+wrong without losing the rest of the picture, then get the words to run beside it. Taking
+payments, built and run by one person.
 
 **[Read the case study →](https://github.com/harleydoughertyart-sketch/luvley)**
 
