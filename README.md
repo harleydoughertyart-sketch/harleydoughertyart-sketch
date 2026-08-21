@@ -20,12 +20,13 @@ you an image, and that part is a model call. The rare part is a copywriting syst
 top of image-to-image that a non-technical person can steer: fix the one thing that came out
 wrong without losing the rest of the picture, then get the words to run beside it. Taking
 payments, built and run by one person.
+It began as a 467-node ComfyUI graph, published in full alongside the case study.
 
 **[Read the case study →](https://github.com/harleydoughertyart-sketch/luvley)**
 
 ---
 
-### Ranking Auto Updater: PDF surgery for a wholesale line sheet
+### Line Sheet Updater: PDF surgery for a wholesale line sheet
 
 [<img src="img/linesheet.jpg" width="100%">](https://github.com/harleydoughertyart-sketch/linesheet-updater)
 
