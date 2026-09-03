@@ -39,6 +39,24 @@ number.
 
 ---
 
+### Gabriel's Menswear: scroll as the timeline
+
+[<img src="img/gabriels.jpg" width="100%">](https://github.com/harleydoughertyart-sketch/gabriels-menswear)
+
+A menswear shop on Main Street in Holden. Scrolling drives the page: video scrubs frame by
+frame under the wheel, sections pin while their copy advances, and a rail of occasions pans
+sideways as you travel down. The engine underneath is 1,167 lines of vanilla JavaScript with
+no dependencies, driven by `data-sc-*` attributes on ordinary markup, and the whole source is
+public.
+
+The shop still has to do its job. Someone lands on a phone needing a funeral suit for
+tomorrow, so the number stays one tap away, and reduced motion gets a real version of the
+page that never fetches a clip at all.
+
+**[Read the case study →](https://github.com/harleydoughertyart-sketch/gabriels-menswear)**
+
+---
+
 ### Concept art and 3D
 
 [<img src="img/3d.jpg" width="100%">](https://www.artstation.com/harleydougherty1)
